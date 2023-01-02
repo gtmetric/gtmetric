@@ -1,18 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soksedtha Ly (GT)
-=========================================================================================================================================
+Hi 👋 My name is Soksedtha Ly (GT)
+==================================
 
 Software Engineer at Pints
 --------------------------
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [ly.soksedtha72@gmail.com](mailto:ly.soksedtha72@gmail.com)
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gtmetric"><img src="https://github-readme-stats.vercel.app/api?username=gtmetric&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gtmetric's GitHub stats" /></a>
-
+* 🚀  I'm currently working on [my personal website](http://soksedthaly.vercel.app)
 
 ### Skills
 
@@ -36,4 +30,9 @@ Software Engineer at Pints
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/soksedtha-ly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/gtmetric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/gtmetric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soksedthaly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@gtmetric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13625603/gt-metric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/gtmetric"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
