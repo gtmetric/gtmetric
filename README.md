@@ -6,7 +6,6 @@ Software Engineer at Pints
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [ly.soksedtha72@gmail.com](mailto:ly.soksedtha72@gmail.com)
-* 🚀  I'm currently working on [my personal website](http://soksedthaly.vercel.app)
 
 ### Skills
 
