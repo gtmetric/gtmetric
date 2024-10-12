@@ -4,8 +4,8 @@ Hi 👋 My name is Soksedtha Ly (GT)
 AI and Software Engineer
 --------------------------
 
-* 🌍  I'm based in Singapore
-* ✉️  You can contact me at [ly.soksedtha72@gmail.com](mailto:ly.soksedtha72@gmail.com)
+* 🌍  Based in Singapore
+* ✉️  Contact me at [ly.soksedtha72@gmail.com](mailto:ly.soksedtha72@gmail.com)
 
 ### Skills
 
