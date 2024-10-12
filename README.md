@@ -1,7 +1,7 @@
 Hi 👋 My name is Soksedtha Ly (GT)
 ==================================
 
-Software Engineer at Pints AI
+AI and Software Engineer
 --------------------------
 
 * 🌍  I'm based in Singapore
