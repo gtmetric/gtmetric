@@ -7,7 +7,7 @@ I'm an AI Product Engineer with 3+ years of experience building production-grade
 
 * 🌍  Based in Singapore
 * 🏢  Product Engineer at **Pints AI** (formerly AI and Software Engineer)
-* 🚀  Rapid progression from junior founding engineer to senior technical lead in under 3 years
+* 🚀  Rapid progression from junior founding engineer to product engineer in under 3 years
 * ✉️  Contact me at [ly.soksedtha72@gmail.com](mailto:ly.soksedtha72@gmail.com)
 * 🔗  [LinkedIn](https://linkedin.com/in/soksedtha-ly)
 
@@ -87,17 +87,11 @@ I'm an AI Product Engineer with 3+ years of experience building production-grade
 <code>Redis</code>
 </p>
 
-### Design & Collaboration
-
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
 ---
 
 ## 🏆 Key Achievements
 
-- 🚀 **Rapid Career Growth**: Junior founding engineer → Senior technical lead in under 3 years at AI startup
+- 🚀 **Rapid Career Growth**: Junior founding engineer → Product engineer in under 3 years at AI startup
 - 🛠️ **Custom LLM Framework**: Built production-grade LLM orchestration framework from scratch
 - 👥 **Technical Leadership**: Successfully led teams of 8+ engineers across multiple concurrent AI projects
 - 🏗️ **AI Infrastructure**: Architected production AI systems that became core revenue-generating infrastructure
@@ -119,9 +113,3 @@ Mahidol University, Information and Communication Technology (2018 - 2022)
 ## 📫 Get in Touch
 
 I'm always interested in discussing AI infrastructure, LLM applications, and innovative product engineering. Feel free to reach out!
-
----
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/gtmetric"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
